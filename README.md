@@ -12,10 +12,9 @@ This repository contains Arduino, ESP32, C++ codebases, hardware design, mechani
 ```
 Hot_Wheels_RC/
 ├── src/
-│   ├── esp32/            → Arduino source code
+│   ├── esp32/              → ESP32 source code
 │   ├── arduino/            → Arduino source code
 |   ├── hardware_design/    → Hardware design files
-│   └── c++/                → C++ source code
 └── doc/                    → Documentation for both codebases
 ```
 
